@@ -1,13 +1,13 @@
-nginx
+nginx:1.27.1
 php:8.2.21-fpm
 php:7.4.33-fpm-buster
-redis:7.2.5
-mysql:8.0.38
+redis/redis-stack-server:7.4.0-v0
+mysql:8.0.39
 rabbitmq:3.13.4-management
 python:3.12.4
 postgres
-chainguard/meilisearch
-haproxy:3.0.3
+getmeili/meilisearch
+percona/proxysql
 
 
 
