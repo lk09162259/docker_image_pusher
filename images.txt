@@ -5,7 +5,7 @@ redis:7.4.0
 mysql:8.0.39
 rabbitmq:3.13.4-management
 python:3.12.4
-postgres
+postgres:13.16
 getmeili/meilisearch
 percona/proxysql
 
