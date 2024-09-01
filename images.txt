@@ -8,7 +8,8 @@ python:3.12.4
 postgres
 chainguard/meilisearch
 linuxserver/ffmpeg
-haproxy
+haproxy:3.0.3
+
 
 
 
