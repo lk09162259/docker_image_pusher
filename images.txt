@@ -1,13 +1,14 @@
-nginx:1.27.1
-php:8.2.21-fpm
-php:7.4.33-fpm-buster
-redis:7.4.0
-mysql:8.0.39
-rabbitmq:3.13.4-management
-python:3.12.4
-postgres:13.16
-getmeili/meilisearch
-percona/proxysql2:2.6
+#nginx:1.27.1
+#php:8.2.21-fpm
+#php:7.4.33-fpm-buster
+#redis:7.4.0
+#mysql:8.0.39
+#rabbitmq:3.13.4-management
+#python:3.12.4
+#postgres:13.16
+#getmeili/meilisearch
+#percona/proxysql2:2.6
+portainer/portainer-ce
 
 
 
