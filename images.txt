@@ -9,8 +9,8 @@
 #getmeili/meilisearch
 #percona/proxysql2:2.6
 #ossrs/srs
-#bluenviron/mediamtx
-zlmediakit/zlmediakit:master
+bluenviron/mediamtx:latest-ffmpeg
+#zlmediakit/zlmediakit:master
 
 
 
